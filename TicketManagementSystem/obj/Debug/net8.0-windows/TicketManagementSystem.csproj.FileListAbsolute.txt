@@ -1,0 +1,16 @@
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\obj\Debug\net8.0-windows\TicketManagementSystem.Form1.resources
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\obj\Debug\net8.0-windows\TicketManagementSystem.csproj.GenerateResource.cache
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\obj\Debug\net8.0-windows\TicketManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\obj\Debug\net8.0-windows\TicketManagementSystem.AssemblyInfoInputs.cache
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\obj\Debug\net8.0-windows\TicketManagementSystem.AssemblyInfo.cs
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\obj\Debug\net8.0-windows\TicketManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\bin\Debug\net8.0-windows\TicketManagementSystem.exe
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\bin\Debug\net8.0-windows\TicketManagementSystem.deps.json
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\bin\Debug\net8.0-windows\TicketManagementSystem.runtimeconfig.json
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\bin\Debug\net8.0-windows\TicketManagementSystem.dll
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\bin\Debug\net8.0-windows\TicketManagementSystem.pdb
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\obj\Debug\net8.0-windows\TicketManagementSystem.dll
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\obj\Debug\net8.0-windows\refint\TicketManagementSystem.dll
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\obj\Debug\net8.0-windows\TicketManagementSystem.pdb
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\obj\Debug\net8.0-windows\TicketManagementSystem.genruntimeconfig.cache
+C:\Users\jedia\source\repos\TicketManagementSystem\TicketManagementSystem\obj\Debug\net8.0-windows\ref\TicketManagementSystem.dll
